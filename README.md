@@ -3,7 +3,7 @@
 ## Copy paste below code 
 ```
 module rds {
-    source = "../"
+    source = "nurbaitenov/vpc/aws""
     region = "us-east-1"
     allocated_storage    = 10
     db_name              = "mydb"
